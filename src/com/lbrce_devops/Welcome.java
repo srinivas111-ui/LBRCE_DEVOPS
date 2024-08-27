@@ -1,5 +1,4 @@
 package com.lbrce_devops;
-import java.util.*;
 import java.lang.*;
 public class Welcome {
 public static void main(String args[]) {
